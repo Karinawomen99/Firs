@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dz11/EvenNumberChecker1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ArrayUtTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DateUtilTests5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EvenNumberTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PhoneValidaterTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringUtilsTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UtialArrayTests8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UtilMathTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UtilTextTest9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ValidatorEmailTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/VowelCounterTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz1/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz1/MathOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz10/z1/SingleThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz10/z1/SingleThreadExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz10/z2/TwoThreadsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz10/z2/TwoThreadsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz10/z3/VolatileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz10/z3/VolatileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz10/z4/SynchronizeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz10/z4/SynchronizeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz2/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz2/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/GameSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/GameSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/MathConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/MathConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/TestLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/TestLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz3/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz3/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Countdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Countdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/DayOFWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/DayOFWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Divisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/DivisibleByTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/DivisibleByTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/DoWhileExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/DoWhileExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/EventNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/EventNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/GradeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/GradeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/MaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/MaxNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/NumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/NumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Planetss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Planetss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/PositiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/PositiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Scaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Scaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/Skip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/Skip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/SumBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/SumBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz4/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach1/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach1/Elephant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach1/Elephant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach1/ZooManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach1/ZooManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach2/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach2/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach2/PetManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach2/PetManger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach3/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach3/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach3/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach3/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach3/HotDish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach3/HotDish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach3/RestauranManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach3/RestauranManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach4/AquariumManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach4/AquariumManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach4/SeaCreature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach4/SeaCreature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach4/Shark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach4/Shark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach4/Strafish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach4/Strafish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach5/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach5/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach5/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach5/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach5/FarmAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach5/FarmAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach5/FarmManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach5/FarmManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach6/Cactus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach6/Cactus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach6/CardenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach6/CardenManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach6/Orchid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach6/Orchid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach6/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach6/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach7/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach7/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach7/Carousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach7/Carousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach7/ParkManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach7/ParkManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach7/RollerCoaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach7/RollerCoaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach8/Exhibit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach8/Exhibit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach8/Manuscript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach8/Manuscript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach8/MuseumManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach8/MuseumManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz6/zadach8/Sculpture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz6/zadach8/Sculpture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/arraydeque/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/arraydeque/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/arraylist/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/arraylist/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/hashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/hashSet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/hashSet/RemoveDublicatesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/hashSet/RemoveDublicatesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/hashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/hashmap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/linkedhashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/linkedhashmap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/linkedhashset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/linkedhashset/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/linkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/linkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/priorityqueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/priorityqueue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/treemap/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/treemap/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz7/treeset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz7/treeset/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Exceptions1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Exceptions1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Exceptions2/DivisionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Exceptions2/DivisionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Exceptions3/AgeValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Exceptions3/AgeValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Exceptions3/InvalidalAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Exceptions3/InvalidalAgeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Exceptions4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Exceptions4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Jeneric1/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Jeneric1/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Jeneric2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Jeneric2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz8/Jeneric3/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz8/Jeneric3/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApi/baseOperation1/NumberFilter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApi/baseOperation1/NumberFilter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApi/baseOperation1/NumberSquers4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApi/baseOperation1/NumberSquers4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApi/baseOperation1/RemoveDublicates5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApi/baseOperation1/RemoveDublicates5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApi/baseOperation1/StringFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApi/baseOperation1/StringFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApi/baseOperation1/StringLengths3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApi/baseOperation1/StringLengths3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApiOperation/AnyMatchExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApiOperation/AnyMatchExample5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApiOperation/FirsStartWithB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApiOperation/FirsStartWithB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApiOperation/MaxNumber1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApiOperation/MaxNumber1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApiOperation/MinNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApiOperation/MinNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/StreamApiOperation/SumNumber3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/StreamApiOperation/SumNumber3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/function/AnonymousClassExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/function/AnonymousClassExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/function/FunctionExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/function/FunctionExample4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/function/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/function/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/function/PredicateExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/function/PredicateExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/function/СonsumerLambdaExample5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/function/СonsumerLambdaExample5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/strimApiGroup/AverageValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/strimApiGroup/AverageValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/strimApiGroup/GroupBYEvenOdd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/strimApiGroup/GroupBYEvenOdd2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dz9/strimApiGroup/GroupByFirsLetter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz9/strimApiGroup/GroupByFirsLetter1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Karinawomen99"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Karinawomen99/Firs.git",
+    "accountId": "8d2e4ca1-0f88-4ab1-ae16-e01348e2afb5"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2x0Llx0svntyPgS8AZR9SEOvQSc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.SingleThreadExample.executor": "Run",
+    "Application.com.example.Main.executor": "Run",
+    "JUnit.ArrayUtTest.executor": "Run",
+    "JUnit.ArrayUtTest.testFindMaxPositive.executor": "Run",
+    "JUnit.ArrayUtTests.executor": "Run",
+    "JUnit.ArrayUtTests.testFindMaxEmptyArray.executor": "Run",
+    "JUnit.ArrayUtilsTest4.testFindMaxPositive.executor": "Run",
+    "JUnit.ArrayUtilsTest4.testFindMaxWithEmptyArray.executor": "Run",
+    "JUnit.DateUtilTests5.executor": "Run",
+    "JUnit.DateUtilTests5.testNonLeapYears.executor": "Run",
+    "JUnit.EvenNumberCheckerTest.executor": "Run",
+    "JUnit.EvenNumberTest.executor": "Run",
+    "JUnit.PhoneValidaterTest10.executor": "Run",
+    "JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers.executor": "Run",
+    "JUnit.PhoneValidaterTest10.testValidPhoneNumbers.executor": "Run",
+    "JUnit.StringUtilsTest.executor": "Run",
+    "JUnit.UtialArrayTests8.executor": "Run",
+    "JUnit.UtialArrayTests8.testFindSecondMaxDublicatesOnly.executor": "Run",
+    "JUnit.UtialArrayTests8.testFindSecondMaxEmptyArray.executor": "Run",
+    "JUnit.UtialArrayTests8.testFindSecondMaxPositive.executor": "Debug",
+    "JUnit.UtialArrayTests8.testFindSecondMaxWithOneElement.executor": "Run",
+    "JUnit.UtilMathTest7.executor": "Run",
+    "JUnit.UtilMathTest7.testFactirialPositive.executor": "Run",
+    "JUnit.UtilMathTest7.testFactorialNegativeTrows.executor": "Run",
+    "JUnit.UtilTextTest9.executor": "Run",
+    "JUnit.UtilTextTest9.testCountWordPositive.executor": "Run",
+    "JUnit.UtilTextTest9.testCountWordsWithNull.executor": "Run",
+    "JUnit.ValidatorEmail6.executor": "Run",
+    "JUnit.ValidatorEmail6.testInvalidEmail.executor": "Run",
+    "JUnit.ValidatorEmailTest6.testNullEmail.executor": "Run",
+    "JUnit.VowelCounterTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\First\src\main\java" />
+      <recent name="C:\Users\User\IdeaProjects\First\src" />
+      <recent name="C:\Users\User\IdeaProjects\First\src\main" />
+      <recent name="C:\Users\User\IdeaProjects\First\src\test\java\dz11" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers">
+    <configuration name="PhoneValidaterTest10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneValidaterTest10" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneValidaterTest10.testInvalidPhoneNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneValidaterTest10" />
+      <option name="METHOD_NAME" value="testInvalidPhoneNumbers(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneValidaterTest10.testValidPhoneNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneValidaterTest10" />
+      <option name="METHOD_NAME" value="testValidPhoneNumbers(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilTextTest9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UtilTextTest9" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilTextTest9.testCountWordsWithNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UtilTextTest9" />
+      <option name="METHOD_NAME" value="testCountWordsWithNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers" />
+        <item itemvalue="JUnit.PhoneValidaterTest10" />
+        <item itemvalue="JUnit.PhoneValidaterTest10.testValidPhoneNumbers" />
+        <item itemvalue="JUnit.UtilTextTest9.testCountWordsWithNull" />
+        <item itemvalue="JUnit.UtilTextTest9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="" />
+      <created>1747070202107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747070202107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package dz2;
+package  com.example ;
 
 public class Car {
     String brand;
