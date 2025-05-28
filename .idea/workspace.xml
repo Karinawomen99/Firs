@@ -5,41 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/First/EntityManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/First/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde/InvalidUserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/InventoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/OutOfStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/sixth/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/sixth/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/third/GradeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/third/InvalidGradeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/third/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/First/EntityManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth/MovieServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Second/UserValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/sixth/TaskServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/thrid/GradeServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArrayUtTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/ArrayUtTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DateUtilTests5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/DateUtilTests5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EvenNumberTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/EvenNumberTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PhoneValidaterTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/PhoneValidaterTest10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StringUtilsTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/StringUtilsTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UtialArrayTests8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/UtialArrayTests8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UtilMathTest7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/UtilMathTest7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UtilTextTest9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/UtilTextTest9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ValidatorEmailTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/ValidatorEmailTest6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/VowelCounterTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/VowelCounterTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/First/EntityManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/First1/EntityManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/First/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/First1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Fourth/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Seconde/InvalidUserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/InvalidUserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Seconde/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Seconde/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Sixth/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Sixth6/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Sixth/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Sixth6/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/OutOfStockException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/OutOfStockException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/third/GradeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/GradeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/third/InvalidGradeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/InvalidGradeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/third/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/StudentGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/First/EntityManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/First1/EntityManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth/MovieServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth4/MovieServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/Second/UserValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Second2/UserValidatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/Sixth/TaskServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Sixth6/TaskServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/thrid/GradeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Thrid3/GradeServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +133,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "my-feature-branch",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -166,29 +154,14 @@
   </component>
   <component name="RunManager" selected="JUnit.TaskServiceTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz13.fifth.Main" />
+      <option name="MAIN_CLASS_NAME" value="dz13.Fifth5.Main" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz13.fifth.*" />
+          <option name="PATTERN" value="dz13.Fifth5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovieServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fourth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Fourth" />
-      <option name="MAIN_CLASS_NAME" value="Fourth.MovieServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -208,11 +181,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MovieServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fourth4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fourth" />
+      <option name="MAIN_CLASS_NAME" value="Fourth4.MovieServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TaskManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sixth.*" />
+          <option name="PATTERN" value="Sixth6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +215,12 @@
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sixth.*" />
+          <option name="PATTERN" value="Sixth6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="sixth" />
-      <option name="MAIN_CLASS_NAME" value="sixth.TaskServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="Sixth6.TaskServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -273,14 +261,14 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java. test.dz13/Second/UserValidatorTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java. test.dz13/Second2/UserValidatorTest.java</url>
           <line>10</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java. test.dz13/thrid/GradeServiceTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java. test.dz13/Thrid3/GradeServiceTest.java</url>
           <line>21</line>
-          <properties class="thrid.GradeServiceTest" method="testAddNegativeGrade">
+          <properties class="Thrid3.GradeServiceTest" method="testAddNegativeGrade">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
