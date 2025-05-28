@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/First/EntityManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/First/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde/InvalidUserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/InventoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/OutOfStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/fifth/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/sixth/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/sixth/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/third/GradeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/third/InvalidGradeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/third/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/First/EntityManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth/MovieServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Second/UserValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/sixth/TaskServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/thrid/GradeServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ArrayUtTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/ArrayUtTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DateUtilTests5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/DateUtilTests5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EvenNumberTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/EvenNumberTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PhoneValidaterTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/PhoneValidaterTest10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StringUtilsTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/StringUtilsTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UtialArrayTests8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/UtialArrayTests8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UtilMathTest7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/UtilMathTest7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/UtilTextTest9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/UtilTextTest9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ValidatorEmailTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/ValidatorEmailTest6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/VowelCounterTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java.test.dz11/VowelCounterTest3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +111,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "my-feature-branch",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java",
     "project.structure.last.edited": "Modules",
