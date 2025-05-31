@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/First/EntityManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/First1/EntityManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/First/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/First1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Fourth/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/MovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Fourth/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Seconde/InvalidUserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/InvalidUserException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Seconde/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Seconde/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/UserValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Sixth/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Sixth6/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/Sixth/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Sixth6/TaskService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/InventoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/OutOfStockException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/OutOfStockException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/fifth/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/third/GradeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/GradeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/third/InvalidGradeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/InvalidGradeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz13/third/StudentGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/StudentGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/First/EntityManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/First1/EntityManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth/MovieServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth4/MovieServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/Second/UserValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Second2/UserValidatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/Sixth/TaskServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Sixth6/TaskServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java. test.dz13/thrid/GradeServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Thrid3/GradeServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,75 +48,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DebugTask1.executor": "Run",
-    "Application.DebugTask10.executor": "Run",
-    "Application.DebugTask2.executor": "Run",
-    "Application.DebugTask3.executor": "Run",
-    "Application.DebugTask4.executor": "Run",
-    "Application.DebugTask5.executor": "Run",
-    "Application.DebugTask6.executor": "Run",
-    "Application.DebugTask7.executor": "Run",
-    "Application.DebugTask8.executor": "Run",
-    "Application.DebugTask9.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SingleThreadExample.executor": "Run",
-    "Application.com.example.Main.executor": "Run",
-    "JUnit.ArrayUtTest.executor": "Run",
-    "JUnit.ArrayUtTest.testFindMaxPositive.executor": "Run",
-    "JUnit.ArrayUtTests.executor": "Run",
-    "JUnit.ArrayUtTests.testFindMaxEmptyArray.executor": "Run",
-    "JUnit.ArrayUtilsTest4.testFindMaxPositive.executor": "Run",
-    "JUnit.ArrayUtilsTest4.testFindMaxWithEmptyArray.executor": "Run",
-    "JUnit.DateUtilTests5.executor": "Run",
-    "JUnit.DateUtilTests5.testNonLeapYears.executor": "Run",
-    "JUnit.EntityManagerTest (1).executor": "Run",
-    "JUnit.EntityManagerTest.executor": "Run",
-    "JUnit.EntityManagerTest.testAddAndGetAll.executor": "Run",
-    "JUnit.EntityManagerTest.testFilterByActivity.executor": "Run",
-    "JUnit.EntityManagerTest.testFilterByAge.executor": "Debug",
-    "JUnit.EntityManagerTest.testFilters.executor": "Run",
-    "JUnit.EntityManagerTest.testRemove.executor": "Run",
-    "JUnit.EvenNumberCheckerTest.executor": "Run",
-    "JUnit.EvenNumberTest.executor": "Run",
-    "JUnit.GradeServiceTest.executor": "Run",
-    "JUnit.GradeServiceTest.testAddNegativeGrade.executor": "Run",
-    "JUnit.MovieServiceTest (1).executor": "Run",
-    "JUnit.MovieServiceTest.executor": "Run",
-    "JUnit.PhoneValidaterTest10.executor": "Run",
-    "JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers.executor": "Run",
-    "JUnit.PhoneValidaterTest10.testValidPhoneNumbers.executor": "Run",
-    "JUnit.StringUtilsTest.executor": "Run",
-    "JUnit.TaskManagerTest.executor": "Run",
-    "JUnit.TaskServiceTest.executor": "Run",
-    "JUnit.UserValidatorTest.executor": "Run",
-    "JUnit.UtialArrayTests8.executor": "Run",
-    "JUnit.UtialArrayTests8.testFindSecondMaxDublicatesOnly.executor": "Run",
-    "JUnit.UtialArrayTests8.testFindSecondMaxEmptyArray.executor": "Run",
-    "JUnit.UtialArrayTests8.testFindSecondMaxPositive.executor": "Debug",
-    "JUnit.UtialArrayTests8.testFindSecondMaxWithOneElement.executor": "Run",
-    "JUnit.UtilMathTest7.executor": "Run",
-    "JUnit.UtilMathTest7.testFactirialPositive.executor": "Run",
-    "JUnit.UtilMathTest7.testFactorialNegativeTrows.executor": "Run",
-    "JUnit.UtilTextTest9.executor": "Run",
-    "JUnit.UtilTextTest9.testCountWordPositive.executor": "Run",
-    "JUnit.UtilTextTest9.testCountWordsWithNull.executor": "Run",
-    "JUnit.ValidatorEmail6.executor": "Run",
-    "JUnit.ValidatorEmail6.testInvalidEmail.executor": "Run",
-    "JUnit.ValidatorEmailTest6.testNullEmail.executor": "Run",
-    "JUnit.VowelCounterTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "my-feature-branch",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DebugTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleThreadExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.example.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTest.testFindMaxPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTests.testFindMaxEmptyArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtilsTest4.testFindMaxPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtilsTest4.testFindMaxWithEmptyArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DateUtilTests5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DateUtilTests5.testNonLeapYears.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testAddAndGetAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testFilterByActivity.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testFilterByAge.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.EntityManagerTest.testFilters.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testRemove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EvenNumberCheckerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EvenNumberTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GradeServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GradeServiceTest.testAddNegativeGrade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MovieServiceTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MovieServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PhoneValidaterTest10.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PhoneValidaterTest10.testValidPhoneNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskManagerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserValidatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxDublicatesOnly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxEmptyArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxPositive.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxWithOneElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilMathTest7.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilMathTest7.testFactirialPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilMathTest7.testFactorialNegativeTrows.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilTextTest9.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilTextTest9.testCountWordPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilTextTest9.testCountWordsWithNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidatorEmail6.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidatorEmail6.testInvalidEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidatorEmailTest6.testNullEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VowelCounterTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;my-feature-branch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\First\src\main\java" />
@@ -231,7 +207,6 @@
         <item itemvalue="JUnit.TaskServiceTest" />
         <item itemvalue="JUnit.TaskManagerTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MovieServiceTest (1)" />
         <item itemvalue="JUnit.MovieServiceTest" />
       </list>
     </recent_temporary>
