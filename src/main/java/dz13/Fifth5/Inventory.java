@@ -24,7 +24,7 @@ public class Inventory implements InventoryService {
     public void addProduct(Product product) {
         if (!isInventoryOpen) {
             System.out.println("Склад закрыт. Добавление товара запрещено.");
-            return;
+            throw new RuntimeException("Склад закрыт");
         }
 
         // Добавляем товар в нужную категорию
