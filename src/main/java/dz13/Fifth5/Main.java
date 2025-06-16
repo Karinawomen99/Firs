@@ -20,15 +20,15 @@ public class Main {
         try {
             inventory.retrieveProduct("Образование");
         } catch (OutOfStockException e) {
-            System.out.println("Ошибка "+e.getMessage());
+            System.out.println("Ошибка " + e.getMessage());
         }
-            List<Product>filtered = inventory.filterProductsByPrice("Образрование",100);
-        System.out.println("Товары до 100 руб"+ filtered);
+        List<Product> filtered = inventory.filterProductsByPrice("Образрование", 100);
+        System.out.println("Товары до 100 руб" + filtered);
         inventory.setInventoryOpen(false);
-        Product p4 = new Product("Телевизор",20000,"Электроника");
+        Product p4 = new Product("Телевизор", 20000, "Электроника");
         inventory.addProduct(p4);
-        }
+    }
 
-        }
+}
 
 

@@ -12,18 +12,15 @@ public class MovieServiceTest {
     @Test
     void testAddRating() {
         MovieService service = new MovieService();
-        Movie movie = new Movie("Побег",2024);
-        service.addRating(movie,new Rating<Number>(5));
-        assertEquals(5.0,service.getAverageRating(movie));
-
+        Movie movie = new Movie("Побег", 2024);
+        service.addRating(movie, new Rating<Number>(5));
+        assertEquals(5.0, service.getAverageRating(movie));
     }
+
     @Test
-    void testInavalidRating(){
+    void testInavalidRating() {
         MovieService service = new MovieService();
-        Movie movie = new Movie("Побег 2",2025);
-        assertThrows(IllegalArgumentException.class,()->service.addRating(movie,new Rating<Number>(11)));
+        Movie movie = new Movie("Побег 2", 2025);
+        assertThrows(IllegalArgumentException.class, () -> service.addRating(movie, new Rating<Number>(11)));
     }
-
-
-
 }

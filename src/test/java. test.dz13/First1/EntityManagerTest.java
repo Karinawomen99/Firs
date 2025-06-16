@@ -28,42 +28,61 @@ class EntityManagerTest {
 
     @Test
     void testAddAndGetAll() {
+        // Проверка начального состояния (после setUp)
+        assertEquals(3, manager.getAll().size());
+
+        // Добавление нового элемента и проверка изменения размера
+        Student newUser = new Student("Diana", 28, true);
+        manager.add(newUser);
+        assertEquals(4, manager.getAll().size()); // Проверка, что размер увеличился
+
+        // Проверка содержимого
         List<Student> allUsers = manager.getAll();
-        assertEquals(3, allUsers.size());
         assertTrue(allUsers.contains(user1));
         assertTrue(allUsers.contains(user2));
         assertTrue(allUsers.contains(user3));
+        assertTrue(allUsers.contains(newUser));
     }
 
     @Test
     void testRemove() {
-        assertTrue(manager.remove(user2));
-        assertEquals(2, manager.getAll().size());
-        assertFalse(manager.getAll().contains(user2));
+        int initialSize = manager.getAll().size(); // Фиксируем начальный размер
+        assertTrue(manager.remove(user2)); // Удаляем
+        assertEquals(initialSize - 1, manager.getAll().size()); // Проверяем уменьшение
+        assertFalse(manager.getAll().contains(user2)); // Проверяем отсутствие user2
+        assertTrue(manager.getAll().contains(user1)); // Проверяем, что остальные на месте
+        assertTrue(manager.getAll().contains(user3));
     }
 
     @Test
     void testFilterByAge() {
+        int initialSize = manager.getAll().size();
         List<Student> filtered = manager.filterByAge(26, 34);
+        assertEquals(initialSize, manager.getAll().size()); // Размер не должен измениться
         assertEquals(1, filtered.size());
         assertEquals(user2, filtered.get(0));
     }
 
     @Test
     void testFilterByName() {
+        int initialSize = manager.getAll().size();
         List<Student> filtered = manager.filterByName("Alice");
+        assertEquals(initialSize, manager.getAll().size()); // Размер не изменился
         assertEquals(1, filtered.size());
         assertEquals(user1, filtered.get(0));
     }
 
     @Test
     void testFilterByActive() {
+        int initialSize = manager.getAll().size();
         List<Student> activeUsers = manager.filterByActive(true);
+        assertEquals(initialSize, manager.getAll().size()); // Размер прежний
         assertEquals(2, activeUsers.size());
         assertTrue(activeUsers.contains(user1));
         assertTrue(activeUsers.contains(user3));
 
         List<Student> inactiveUsers = manager.filterByActive(false);
+        assertEquals(initialSize, manager.getAll().size()); // Размер прежний
         assertEquals(1, inactiveUsers.size());
         assertEquals(user2, inactiveUsers.get(0));
     }
