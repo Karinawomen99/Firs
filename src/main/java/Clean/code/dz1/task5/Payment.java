@@ -1,0 +1,5 @@
+package Clean.code.dz1.task5;
+
+public interface Payment {
+    void  process(double amount);// Обработка оплаты
+}

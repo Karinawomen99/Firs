@@ -4,30 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/InventoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/OutOfStockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fifth5/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/First1/EntityManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/First1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Fourth4/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/InvalidUserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Seconde2/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Sixth6/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Sixth6/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/GradeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/InvalidGradeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz13/Third3/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/First1/EntityManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Fourth4/MovieServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Second2/UserValidatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Sixth6/TaskServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java. test.dz13/Thrid3/GradeServiceTest.java" afterDir="false" />
+    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment=" reformat code after review">
+      <change afterPath="$PROJECT_DIR$/src/main/java/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/DiscountCalculato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task4/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task4/InvoiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task4/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/BitcoinPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/CreaditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/PamentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/FlyingBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Worable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/MessageSente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/SmssSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mock/Mock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,93 +82,114 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DebugTask1.executor": "Run",
-    "Application.DebugTask10.executor": "Run",
-    "Application.DebugTask2.executor": "Run",
-    "Application.DebugTask3.executor": "Run",
-    "Application.DebugTask4.executor": "Run",
-    "Application.DebugTask5.executor": "Run",
-    "Application.DebugTask6.executor": "Run",
-    "Application.DebugTask7.executor": "Run",
-    "Application.DebugTask8.executor": "Run",
-    "Application.DebugTask9.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SingleThreadExample.executor": "Run",
-    "Application.com.example.Main.executor": "Run",
-    "JUnit.ArrayUtTest.executor": "Run",
-    "JUnit.ArrayUtTest.testFindMaxPositive.executor": "Run",
-    "JUnit.ArrayUtTests.executor": "Run",
-    "JUnit.ArrayUtTests.testFindMaxEmptyArray.executor": "Run",
-    "JUnit.ArrayUtilsTest4.testFindMaxPositive.executor": "Run",
-    "JUnit.ArrayUtilsTest4.testFindMaxWithEmptyArray.executor": "Run",
-    "JUnit.DateUtilTests5.executor": "Run",
-    "JUnit.DateUtilTests5.testNonLeapYears.executor": "Run",
-    "JUnit.EntityManagerTest (1).executor": "Run",
-    "JUnit.EntityManagerTest.executor": "Run",
-    "JUnit.EntityManagerTest.testAddAndGetAll.executor": "Run",
-    "JUnit.EntityManagerTest.testFilterByActivity.executor": "Run",
-    "JUnit.EntityManagerTest.testFilterByAge.executor": "Debug",
-    "JUnit.EntityManagerTest.testFilters.executor": "Run",
-    "JUnit.EntityManagerTest.testRemove.executor": "Run",
-    "JUnit.EvenNumberCheckerTest.executor": "Run",
-    "JUnit.EvenNumberTest.executor": "Run",
-    "JUnit.GradeServiceTest.executor": "Run",
-    "JUnit.GradeServiceTest.testAddNegativeGrade.executor": "Run",
-    "JUnit.MovieServiceTest (1).executor": "Run",
-    "JUnit.MovieServiceTest.executor": "Run",
-    "JUnit.PhoneValidaterTest10.executor": "Run",
-    "JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers.executor": "Run",
-    "JUnit.PhoneValidaterTest10.testValidPhoneNumbers.executor": "Run",
-    "JUnit.StringUtilsTest.executor": "Run",
-    "JUnit.TaskManagerTest.executor": "Run",
-    "JUnit.TaskServiceTest.executor": "Run",
-    "JUnit.UserValidatorTest.executor": "Run",
-    "JUnit.UtialArrayTests8.executor": "Run",
-    "JUnit.UtialArrayTests8.testFindSecondMaxDublicatesOnly.executor": "Run",
-    "JUnit.UtialArrayTests8.testFindSecondMaxEmptyArray.executor": "Run",
-    "JUnit.UtialArrayTests8.testFindSecondMaxPositive.executor": "Debug",
-    "JUnit.UtialArrayTests8.testFindSecondMaxWithOneElement.executor": "Run",
-    "JUnit.UtilMathTest7.executor": "Run",
-    "JUnit.UtilMathTest7.testFactirialPositive.executor": "Run",
-    "JUnit.UtilMathTest7.testFactorialNegativeTrows.executor": "Run",
-    "JUnit.UtilTextTest9.executor": "Run",
-    "JUnit.UtilTextTest9.testCountWordPositive.executor": "Run",
-    "JUnit.UtilTextTest9.testCountWordsWithNull.executor": "Run",
-    "JUnit.ValidatorEmail6.executor": "Run",
-    "JUnit.ValidatorEmail6.testInvalidEmail.executor": "Run",
-    "JUnit.ValidatorEmailTest6.testNullEmail.executor": "Run",
-    "JUnit.VowelCounterTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "damashka13",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.A1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clean.code.dz1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugTask9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mock.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mok.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Penguin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleThreadExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.example.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTest.testFindMaxPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtTests.testFindMaxEmptyArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtilsTest4.testFindMaxPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArrayUtilsTest4.testFindMaxWithEmptyArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DateUtilTests5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DateUtilTests5.testNonLeapYears.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testAddAndGetAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testFilterByActivity.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testFilterByAge.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.EntityManagerTest.testFilters.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EntityManagerTest.testRemove.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EvenNumberCheckerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EvenNumberTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GradeServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GradeServiceTest.testAddNegativeGrade.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MovieServiceTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MovieServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PhoneValidaterTest10.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PhoneValidaterTest10.testInvalidPhoneNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PhoneValidaterTest10.testValidPhoneNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskManagerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserValidatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxDublicatesOnly.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxEmptyArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxPositive.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.UtialArrayTests8.testFindSecondMaxWithOneElement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilMathTest7.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilMathTest7.testFactirialPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilMathTest7.testFactorialNegativeTrows.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilTextTest9.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilTextTest9.testCountWordPositive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UtilTextTest9.testCountWordsWithNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidatorEmail6.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidatorEmail6.testInvalidEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidatorEmailTest6.testNullEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.VowelCounterTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#4 on damashka13&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\First\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\First\src\main\java\dz12" />
       <recent name="C:\Users\User\IdeaProjects\First\src\main\java" />
       <recent name="C:\Users\User\IdeaProjects\First\src" />
       <recent name="C:\Users\User\IdeaProjects\First\src\main" />
-      <recent name="C:\Users\User\IdeaProjects\First\src\test\java\dz11" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TaskServiceTest">
+  <component name="RunManager" selected="Application.Clean.code.dz1.task6.Main">
+    <configuration name="Clean.code.dz1.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clean.code.dz1.task6.Main" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clean.code.dz1.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz13.fifth.Main" />
+      <option name="MAIN_CLASS_NAME" value="dz1.Main" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz13.fifth.*" />
+          <option name="PATTERN" value="dz1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,87 +197,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Mock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mock.Mock" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fourth.*" />
+          <option name="PATTERN" value="Mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Fourth" />
-      <option name="MAIN_CLASS_NAME" value="Fourth.MovieServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Mock.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mock.Main" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fourth.*" />
+          <option name="PATTERN" value="Mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fourth" />
-      <option name="MAIN_CLASS_NAME" value="fourth.MovieServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Penguin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Penguin" />
       <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fourth4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Fourth" />
-      <option name="MAIN_CLASS_NAME" value="Fourth4.MovieServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sixth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sixth" />
-      <option name="MAIN_CLASS_NAME" value="sixth.TaskManagerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sixth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sixth" />
-      <option name="MAIN_CLASS_NAME" value="sixth.TaskServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TaskServiceTest" />
-        <item itemvalue="JUnit.TaskManagerTest" />
-        <item itemvalue="JUnit.MovieServiceTest (1)" />
-        <item itemvalue="JUnit.MovieServiceTest" />
+        <item itemvalue="Application.Clean.code.dz1.task6.Main" />
+        <item itemvalue="Application.Penguin" />
+        <item itemvalue="Application.Mock.Main" />
+        <item itemvalue="Application.Mock" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -266,7 +250,47 @@
       <option name="presentableId" value="Default" />
       <updated>1747070202107</updated>
     </task>
+    <task id="LOCAL-00001" summary=" dz13">
+      <option name="closed" value="true" />
+      <created>1749487693566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749487693566</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" fix exception dz13">
+      <option name="closed" value="true" />
+      <created>1749488357448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749488357448</updated>
+    </task>
+    <task id="LOCAL-00003" summary="return dz13">
+      <option name="closed" value="true" />
+      <created>1749488601711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749488601711</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" reformat code after review">
+      <option name="closed" value="true" />
+      <created>1750099351902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750099351902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" dz13" />
+    <MESSAGE value=" fix exception dz13" />
+    <MESSAGE value="return dz13" />
+    <MESSAGE value=" reformat code after review" />
+    <option name="LAST_COMMIT_MESSAGE" value=" reformat code after review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
