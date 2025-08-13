@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment="" />
+    <list default="true" id="f84966f3-124f-4c5d-81bc-e860272e6d38" name="Changes" comment=" reformat code after review">
+      <change afterPath="$PROJECT_DIR$/src/main/java/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/DiscountCalculato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task4/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task4/InvoiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task4/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/BitcoinPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/CreaditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/PamentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task5/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/FlyingBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task6/Sparrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task7/Worable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/MessageSente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clean/code/dz1/task8/SmssSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mock/Mock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +49,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new-feature-branch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -50,6 +84,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.A1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clean.code.dz1.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.DebugTask1.executor&quot;: &quot;Run&quot;,
     &quot;Application.DebugTask10.executor&quot;: &quot;Run&quot;,
     &quot;Application.DebugTask2.executor&quot;: &quot;Run&quot;,
@@ -61,6 +97,10 @@
     &quot;Application.DebugTask8.executor&quot;: &quot;Run&quot;,
     &quot;Application.DebugTask9.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mock.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mok.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Penguin.executor&quot;: &quot;Run&quot;,
     &quot;Application.SingleThreadExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.com.example.Main.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ArrayUtTest.executor&quot;: &quot;Run&quot;,
@@ -109,32 +149,47 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#4 on damashka13&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/First/src/main/java/com/example/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\First\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\First\src\main\java\dz12" />
       <recent name="C:\Users\User\IdeaProjects\First\src\main\java" />
       <recent name="C:\Users\User\IdeaProjects\First\src" />
       <recent name="C:\Users\User\IdeaProjects\First\src\main" />
-      <recent name="C:\Users\User\IdeaProjects\First\src\test\java\dz11" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TaskServiceTest">
+  <component name="RunManager" selected="Application.Clean.code.dz1.task6.Main">
+    <configuration name="Clean.code.dz1.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clean.code.dz1.task6.Main" />
+      <module name="First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clean.code.dz1.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz13.fifth.Main" />
+      <option name="MAIN_CLASS_NAME" value="dz1.Main" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz13.fifth.*" />
+          <option name="PATTERN" value="dz1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,73 +197,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Mock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mock.Mock" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fourth.*" />
+          <option name="PATTERN" value="Mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Fourth" />
-      <option name="MAIN_CLASS_NAME" value="Fourth.MovieServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Mock.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mock.Main" />
       <module name="First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fourth.*" />
+          <option name="PATTERN" value="Mock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fourth" />
-      <option name="MAIN_CLASS_NAME" value="fourth.MovieServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Penguin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Penguin" />
       <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sixth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sixth" />
-      <option name="MAIN_CLASS_NAME" value="sixth.TaskManagerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sixth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sixth" />
-      <option name="MAIN_CLASS_NAME" value="sixth.TaskServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TaskServiceTest" />
-        <item itemvalue="JUnit.TaskManagerTest" />
+        <item itemvalue="Application.Clean.code.dz1.task6.Main" />
+        <item itemvalue="Application.Penguin" />
+        <item itemvalue="Application.Mock.Main" />
+        <item itemvalue="Application.Mock" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MovieServiceTest (1)" />
-        <item itemvalue="JUnit.MovieServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -221,29 +250,47 @@
       <option name="presentableId" value="Default" />
       <updated>1747070202107</updated>
     </task>
-    <task id="LOCAL-00001" summary="Revert Commit">
+    <task id="LOCAL-00001" summary=" dz13">
       <option name="closed" value="true" />
-      <created>1749485937393</created>
+      <created>1749487693566</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1749485937393</updated>
+      <updated>1749487693566</updated>
     </task>
-    <task id="LOCAL-00002" summary="dz11">
+    <task id="LOCAL-00002" summary=" fix exception dz13">
       <option name="closed" value="true" />
-      <created>1749486135056</created>
+      <created>1749488357448</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1749486135056</updated>
+      <updated>1749488357448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="return dz13">
+      <option name="closed" value="true" />
+      <created>1749488601711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749488601711</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" reformat code after review">
+      <option name="closed" value="true" />
+      <created>1750099351902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750099351902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revert Commit" />
-    <MESSAGE value="dz11" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz11" />
+    <MESSAGE value=" dz13" />
+    <MESSAGE value=" fix exception dz13" />
+    <MESSAGE value="return dz13" />
+    <MESSAGE value=" reformat code after review" />
+    <option name="LAST_COMMIT_MESSAGE" value=" reformat code after review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -266,7 +313,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java. test.dz13/thrid/GradeServiceTest.java</url>
           <line>21</line>
-          <properties class="thrid.GradeServiceTest" method="testAddNegativeGrade">
+          <properties class="thrid.GradeServiceTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
